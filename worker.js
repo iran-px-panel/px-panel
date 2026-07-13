@@ -4,6 +4,7 @@
  * Build: 2026-07-13T11:18:24.809Z
  * Github: https://github.com/iran-px-panel/px-panel/
  * Telegram: https://t.me/pxconfir
+ * Any kind of panel editing is far from honor and humanity.
  * @author PX Panel Team
  * @license GPL-3.0
  */
