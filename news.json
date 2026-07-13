@@ -1,14 +1,14 @@
 {
   "version": "4.2.4-px",
-  "changelog": "رفع باگ تم دارک - تم مشکی...",
+  "changelog": "رفع باگ",
   "workerUrl": "https://raw.githubusercontent.com/iran-px-panel/px-panel/main/worker.js",
   "news": [
     {
-      "title": "آپدیت فوری",
-      "message": "متن فارسی",
+      "title": "آپدیت جدید",
+      "message": "ساب ها به صورت بهتری اپدیت میشن و همچنین سرعت بالا تر رفته ",
       "type": "urgent",
-      "color": "red",
-      "important": true
+      "color": "blue",
+      "important": false
     }
   ]
 }
