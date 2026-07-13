@@ -1,11 +1,11 @@
 {
-  "version": "4.2.4-px",
+  "version": "4.2.5-px",
   "changelog": "رفع باگ",
   "workerUrl": "https://raw.githubusercontent.com/iran-px-panel/px-panel/main/worker.js",
   "news": [
     {
       "title": "آپدیت جدید",
-      "message": "ساب ها به صورت بهتری اپدیت میشن و همچنین سرعت بالا تر رفته ",
+      "message": "پنل کامل شد و میتونید رمز عبور دلخواه وارد کنید و همچنین ساب های پنل به با سرعت بهتری کار میکنن",
       "type": "urgent",
       "color": "red",
       "important": true
