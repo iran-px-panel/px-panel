@@ -1,1 +1,14 @@
-
+{
+  "version": "4.2.4-px",
+  "changelog": "رفع باگ تم دارک - تم مشکی...",
+  "workerUrl": "https://raw.githubusercontent.com/iran-px-panel/px-panel/main/worker.js",
+  "news": [
+    {
+      "title": "آپدیت فوری",
+      "message": "متن فارسی",
+      "type": "urgent",
+      "color": "red",
+      "important": true
+    }
+  ]
+}
