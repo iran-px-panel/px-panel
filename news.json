@@ -7,8 +7,8 @@
       "title": "آپدیت جدید",
       "message": "ساب ها به صورت بهتری اپدیت میشن و همچنین سرعت بالا تر رفته ",
       "type": "urgent",
-      "color": "blue",
-      "important": false
+      "color": "red",
+      "important": true
     }
   ]
 }
